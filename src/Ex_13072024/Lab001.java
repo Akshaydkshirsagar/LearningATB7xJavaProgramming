@@ -1,6 +1,6 @@
-package Ex_070724;
+package Ex_13072024;
 
-public class Lab004 {
+public class Lab001 {
     // Data types
 
     public static void main (String[] args){

@@ -1,4 +1,4 @@
-package Ex_070724;
+package Ex_20072024;
 import java.util.Scanner;
 public class Lab088 {
     public static void main(String[] args) {
