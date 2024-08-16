@@ -22,6 +22,17 @@ public class Lab008 {
         System.out.println(a*b);
         System.out.println(a/b);
         System.out.println(a%b);
+        System.out.println("*******");
+        a++;                           //post increment by 1
+        System.out.println(a);
+        int sum=a+b;
+        System.out.println(sum);
+        b--;                          // post decrement by 1
+        System.out.println(b);
+        System.out.println(++a);      //pre increment by 1
+        System.out.println(--b);      // pre decrement by1
+
+
 
 
 
